@@ -1,0 +1,5 @@
+table_name,column_name,total_rows,non_null_count,min_value,max_value,avg_value,stddev_value,median_value,p99_value
+olist_order_items_dataset,freight_value,112650,107051,0.00,19384.00,61.35,359.88,16.41,1664.9999999999982
+olist_order_items_dataset,price,112650,106976,0.85,459000.00,361.47,3231.03,77.98,7490.0
+olist_order_payments_dataset,payment_installments,103886,98712,0,1500,8.60,55.06,2.0,200.0
+olist_order_payments_dataset,payment_value,103886,98595,0.00,282700.00,455.47,3750.09,102.13,9821.09999999997
